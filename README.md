@@ -1,4 +1,4 @@
-# E-commerce Data Analytics Project
+# E-commerce Book Store Data Analytics Project
 
 ## Project Overview
 This project demonstrates an end-to-end data analytics workflow using e-commerce product data. Product information is scraped from a scraping-friendly e-commerce website, cleaned and analyzed using Excel, and visualized through an interactive Power BI dashboard to support data-driven decision-making.
